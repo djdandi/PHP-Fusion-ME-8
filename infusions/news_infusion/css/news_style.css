@@ -1,0 +1,39 @@
+/* Preview CSS */
+	.previewhead h3 {
+	font: 2.1em Arial, Helvetica, Tahoma, Verdana;
+	line-height: 1.2em;
+	}
+	.previewhead {
+	color: rgb(188, 46, 43);
+	}
+	.previewhead:hover {
+	color: rgb(108, 16, 18);
+	text-decoration:underline;
+	}
+	
+	.newsteaser h3 {
+	margin-bottom:1em;
+	font-size: 1.4em;
+	line-height: 1.4em;
+	}
+	
+	.img-polaroid {
+	margin: 10px 10px 10px 10px;	
+	}
+	
+	.newsbody {
+	font: 13px/1.231 arial,helvetica,clean,sans-serif;
+	color: rgb(51,51,51);
+	}
+	
+	.label {
+	font-size: 0.85em !important;
+	}
+	
+	#ptag {
+	list-style: none outside none; font-size: 0.85em; color: rgb(170, 170, 170); margin-left:5px;
+	}
+	
+	#ptag li {
+	float: left; margin-right: 10px;	
+	}
